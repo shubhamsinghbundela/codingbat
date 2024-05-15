@@ -7,11 +7,8 @@
 
 public class Sum28 {
     public static void main(String[] args) {
-        int[] nums = { 2, 3, 2, 2, 4, 2 };
+
         int[] nums1 = { 2, 3, 2, 2, 4, 2, 2 };
-        int[] nums2 = { 1, 2, 3, 4 };
-        int[] nums3 = { 2, 3, 2, 2, 4, 2 };
-        int[] nums4 = { 2, 3, 2, 2, 4, 2 };
         System.out.println(sum28(nums1));
     }
 
