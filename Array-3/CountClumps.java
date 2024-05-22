@@ -33,7 +33,7 @@ public class CountClumps {
         } else {
             return count;
         }
-        return count;
+
     }
 
 }
